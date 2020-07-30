@@ -6,9 +6,11 @@
 ### Hi there 👋
 
 Welcome to my GitHub profile! 🎉  
-If you have any questions or if you want to connect with me, feel free to contact me via email vana997@gmail.com.
+If you have any questions or if you want to connect with me, feel free to drop me an email at vana997@gmail.com.
 
 I'm currently working as an UI Engineer Intern at [Grid Dynamics](https://www.griddynamics.com).
+
+![dzimiks' github stats](https://github-readme-stats.vercel.app/api?username=dzimiks&show_icons=true&count_private=true&theme=algolia)
 
 <!--
 **dzimiks/dzimiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
