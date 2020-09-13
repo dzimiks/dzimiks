@@ -6,10 +6,13 @@
 
 ### Hi there 👋
 
-Welcome to my GitHub profile! 🎉  
+Welcome to my GitHub profile! 🎉 
+
+My name is Vanja Paunović. I have worked and thrived in a team setting through the internships and jobs I have had in the last four years. Learning from my teammates and constantly interacting with clients taught me discipline and it's giving me the motivation to progress. I'm currently working as a **Junior UI Engineer** at [Grid Dynamics](https://www.griddynamics.com). 👨‍💻
+
 If you have any questions or if you want to connect with me, feel free to drop me an email at vana997@gmail.com.
 
-I'm currently working as a Junior UI Engineer at [Grid Dynamics](https://www.griddynamics.com).
+If you find the content I create useful [consider becoming a Patreon](https://www.patreon.com/dzimiks) and check out my [YouTube channel](https://www.youtube.com/c/dzimiks)! :heart:
 
 ![dzimiks' github stats](https://github-readme-stats.vercel.app/api?username=dzimiks&show_icons=true&count_private=true&theme=algolia)
 
