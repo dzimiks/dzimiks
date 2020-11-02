@@ -16,6 +16,9 @@ If you find the content I create useful [consider becoming a Patreon](https://ww
 
 ![dzimiks' github stats](https://github-readme-stats.vercel.app/api?username=dzimiks&show_icons=true&count_private=true&theme=algolia)
 
+[![](https://komarev.com/ghpvc/?username=dzimiks&color=blue&label=Profile%20Views)](https://github.com/dzimiks)
+[![](https://img.shields.io/github/followers/dzimiks?label=GitHub%20Followers)](https://github.com/dzimiks)
+
 <!--
 **dzimiks/dzimiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
