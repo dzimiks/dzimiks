@@ -8,7 +8,7 @@
 
 Welcome to my GitHub profile! 🎉 
 
-My name is Vanja Paunović. I have worked and thrived in a team setting through the internships and jobs I have had in the last four years. Learning from my teammates and constantly interacting with clients taught me discipline and it's giving me the motivation to progress. I'm currently working as a **UI Engineer** at [Grid Dynamics](https://www.griddynamics.com). 👨‍💻
+My name is Vanja Paunović. I have worked and thrived in a team setting through the internships and jobs I have had in the last four years. Learning from my teammates and constantly interacting with clients taught me discipline and it's giving me the motivation to progress. I'm currently working as a **Software Engineer** at [Tenderly](https://tenderly.co). 👨‍💻
 
 If you have any questions or if you want to connect with me, feel free to drop me an email at dzimiksbusiness@gmail.com.
 
