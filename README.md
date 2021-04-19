@@ -4,11 +4,23 @@
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/c/dzimiks)
 [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://dzimiks.com)
 
-### Hi there 👋
+### Hi, my name is Vanja 👋
 
 Welcome to my GitHub profile! 🎉 
 
-My name is Vanja Paunović. I have worked and thrived in a team setting through the internships and jobs I have had in the last four years. Learning from my teammates and constantly interacting with clients taught me discipline and it's giving me the motivation to progress. I'm currently working as a **Software Engineer** at [Tenderly](https://tenderly.co). 👨‍💻
+I'm a software engineer with 4+ years of diverse, professional experience. I'm always striving to make things faster, simpler, and more user and developer-friendly.
+
+UI development is the most enjoyable part of my career. I always strive to write well-designed, performant, fully tested code that works across multiple browsers. For the past couple of years, I have been focused on React and Redux development but I am well-versed in many other libraries/frameworks.
+
+More recently, I'm interested in blockchain development and the whole of its ideology. Right now, I'm working on a tool for real-time monitoring, alerting, and troubleshooting for Smart Contracts.
+
+Despite enjoying the front end, I tend to float toward whatever project needs the most attention, taking ownership and ensuring success, regardless of comfort level. I regularly develop on OSX and deploy across a variety of platforms. This has required close collaboration with a multitude of stakeholders, which includes security engineers, technical architects, product owners, managers, and designers from all around the world.
+
+The end result is a wide variety of experiences, from REST-based microservice development to writing test automation frameworks, large database migrations, authentication and authorization, and more.
+
+I do not mind jumping in and getting my hands dirty in existing projects. I thrive under pressure and love fast-paced companies that deliver compelling products.
+
+I'm currently working as a **Software Engineer** at [Tenderly](https://tenderly.co). 👨‍💻
 
 If you have any questions or if you want to connect with me, feel free to drop me an email at dzimiksbusiness@gmail.com.
 
