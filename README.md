@@ -20,7 +20,7 @@ The end result is a wide variety of experiences, from REST-based microservice de
 
 I do not mind jumping in and getting my hands dirty in existing projects. I thrive under pressure and love fast-paced companies that deliver compelling products.
 
-I'm currently working as a **Software Engineer** at [Tenderly](https://tenderly.co). 👨‍💻
+I'm currently working as a **Frontend Engineer** at [Tenderly](https://tenderly.co). 👨‍💻
 
 If you have any questions or if you want to connect with me, feel free to drop me an email at dzimiksbusiness@gmail.com.
 
