@@ -8,7 +8,7 @@
 
 Welcome to my GitHub profile! 🎉 
 
-I'm a software engineer with 4+ years of diverse, professional experience. I'm always striving to make things faster, simpler, and more user and developer-friendly.
+I'm a software engineer with 5+ years of diverse, professional experience. I'm always striving to make things faster, simpler, and more user and developer-friendly.
 
 UI development is the most enjoyable part of my career. I always strive to write well-designed, performant, fully tested code that works across multiple browsers. For the past couple of years, I have been focused on React and Redux development but I am well-versed in many other libraries/frameworks.
 
