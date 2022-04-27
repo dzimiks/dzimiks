@@ -26,11 +26,9 @@ If you have any questions or if you want to connect with me, feel free to drop m
 
 If you find the content I create useful [consider becoming a Patreon](https://www.patreon.com/dzimiks) or pay to my [PayPal](https://www.paypal.com/paypalme/dzimiks) account and check out my [YouTube channel](https://www.youtube.com/c/dzimiks)! :heart:
 
-🚨 TO THE MOON PROGRAMMING CONTEST 🚨
+🚨 TO THE MOON PROGRAMMING CONTEST 2021 🚨
 
 More info at https://dzimiks.com/contests.
-
-![TO THE MOON](https://i.imgur.com/UeXpOCm.png)
 
 ![dzimiks' github stats](https://github-readme-stats.vercel.app/api?username=dzimiks&show_icons=true&count_private=true&theme=algolia)
 
