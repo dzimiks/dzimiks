@@ -5,31 +5,30 @@
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/c/dzimiks)
 [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&logo=jordan&logoColor=white&color=ef6c00" />](https://dzimiks.com)
 
-### Hi, my name is Vanja 👋
+### Hi, my name is Vanja, but you may know me as Jimmy! 👋
 
-Welcome to my GitHub profile! 🎉 
+I'm the CEO of Seijin, a community-driven fundraising platform within the Sei blockchain ecosystem. This role leverages my 8+ years of diverse, professional experience across frontend engineering and developer relations, where I've consistently aimed to make technology faster, simpler, and more user-friendly.
 
-I'm a DevRel with 7+ years of diverse, professional experience. I'm always striving to make things faster, simpler, and more user and developer-friendly.
+Throughout my career, UI development has been my passion. I take pride in crafting well-designed, performant, and thoroughly tested code that ensures compatibility across multiple platforms. My journey has been marked by a deep focus on React and NextJS, alongside proficiency in a variety of other libraries and frameworks.
 
-UI development is the most enjoyable part of my career. I always strive to write well-designed, performant, fully tested code that works across multiple browsers. For the past couple of years, I have been focused on React and Redux development but I am well-versed in many other libraries/frameworks.
+A couple of years ago, my interests have expanded into the web3 and blockchain domains, embracing the innovative spirit and ideology of decentralized development. As a Senior Developer Advocate, I have been instrumental in helping developers build faster and more effectively within the Ethereum ecosystem.
 
-More recently, I'm interested in blockchain development and the whole of its ideology. Right now, I'm working on a tool for real-time monitoring, alerting, and troubleshooting for Smart Contracts.
+My approach is holistic and adaptable; I gravitate towards projects requiring immediate attention, ensuring their success by taking full ownership, irrespective of my comfort level. My experience spans across a multitude of technical landscapes, involving collaboration with security engineers, technical architects, product owners, and designers from around the globe.
 
-Despite enjoying the front end, I tend to float toward whatever project needs the most attention, taking ownership and ensuring success, regardless of comfort level. I regularly develop on OSX and deploy across a variety of platforms. This has required close collaboration with a multitude of stakeholders, which includes security engineers, technical architects, product owners, managers, and designers from all around the world.
+I thrive in dynamic, fast-paced environments, and am not hesitant to dive into existing projects. My drive and ability to perform under pressure complement my dedication to delivering compelling, impactful products.
 
-The end result is a wide variety of experiences, from REST-based microservice development to writing test automation frameworks, large database migrations, authentication and authorization, and more.
+Looking forward to shaping the future with Seijin as we explore the vast potential of community-driven fundraising in the blockchain space.
 
-I do not mind jumping in and getting my hands dirty in existing projects. I thrive under pressure and love fast-paced companies that deliver compelling products.
-
-I'm currently working as a **Developer Relations** at [Tenderly](https://tenderly.co). 👨‍💻
+--------------------
 
 If you have any questions or if you want to connect with me, feel free to drop me an email at dzimiksbusiness@gmail.com.
 
+LinkedIn: https://www.linkedin.com/in/vpaunovic  
+Twitter: https://twitter.com/dzimiks  
+GitHub: https://github.com/dzimiks  
+Website: https://dzimiks.com
+
 If you find the content I create useful [consider becoming a Patreon](https://www.patreon.com/dzimiks) or pay to my [PayPal](https://www.paypal.com/paypalme/dzimiks) account and check out my [YouTube channel](https://www.youtube.com/c/dzimiks)! :heart:
-
-🚨 TO THE MOON PROGRAMMING CONTEST 2021 🚨
-
-More info at https://dzimiks.com/contests.
 
 ![dzimiks' github stats](https://github-readme-stats.vercel.app/api?username=dzimiks&show_icons=true&count_private=true&theme=algolia)
 
