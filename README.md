@@ -7,7 +7,7 @@
 
 ### Hi, my name is Vanja, but you may know me as Jimmy! 👋
 
-I'm the CEO of Seijin, a community-driven fundraising platform within the Sei blockchain ecosystem. This role leverages my 8+ years of diverse, professional experience across frontend engineering and developer relations, where I've consistently aimed to make technology faster, simpler, and more user-friendly.
+I have 8+ years of diverse, professional experience across frontend engineering and developer relations, where I've consistently aimed to make technology faster, simpler, and more user-friendly.
 
 Throughout my career, UI development has been my passion. I take pride in crafting well-designed, performant, and thoroughly tested code that ensures compatibility across multiple platforms. My journey has been marked by a deep focus on React and NextJS, alongside proficiency in a variety of other libraries and frameworks.
 
@@ -21,7 +21,7 @@ Looking forward to shaping the future with Seijin as we explore the vast potenti
 
 --------------------
 
-If you have any questions or if you want to connect with me, feel free to drop me an email at dzimiksbusiness@gmail.com.
+If you have any questions or want to connect with me, feel free to email me at dzimiksbusiness@gmail.com.
 
 LinkedIn: https://www.linkedin.com/in/vpaunovic  
 Twitter: https://twitter.com/dzimiks  
