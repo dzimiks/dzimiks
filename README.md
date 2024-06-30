@@ -17,8 +17,6 @@ My approach is holistic and adaptable; I gravitate towards projects requiring im
 
 I thrive in dynamic, fast-paced environments, and am not hesitant to dive into existing projects. My drive and ability to perform under pressure complement my dedication to delivering compelling, impactful products.
 
-Looking forward to shaping the future with Seijin as we explore the vast potential of community-driven fundraising in the blockchain space.
-
 --------------------
 
 If you have any questions or want to connect with me, feel free to email me at dzimiksbusiness@gmail.com.
